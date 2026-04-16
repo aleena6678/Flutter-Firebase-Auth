@@ -1,4 +1,4 @@
-# exampleapp
+# Flutter-Firebase-Auth
 
 A new Flutter project.
 
